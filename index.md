@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<div></div>
+  
 [About Me](#about-me) · [My Projects](#my-projects) · [My Interests](#my-interests)  
 
 </div>
@@ -26,12 +26,19 @@ greet()
 I am Paz Mogrelia, a Computer Science major at the University of California, San Diego.
 
 <div align="center">
-<div></div>
-![Headshot](./headshot.jpg)  
+
+![Headshot](./headshot.jpg) 
+
+
+
 (that's me.)<br>
-[Email](mailto:pmogrelia@ucsd.edu) | [LinkedIn](http://linkedin.com/in/pazmogrelia) | [Resume](./resume.jpg)  | [GitHub](https://github.com/pmogrelia)
+</div>
+<div align="center">
+
+[Email](mailto:pmogrelia@ucsd.edu) | [LinkedIn](http://linkedin.com/in/pazmogrelia) | [Resume](./resume.jpg) | [GitHub](https://github.com/pmogrelia)
 
 </div>
+
 
 
 I am passionate about software engineering and have hands-on experience through internships and projects. My favourite experience has been working at the Mechanical and Aerospace Engineering Department at UCSD, where I manage and set-up all online course systems using MATLAB and Google Apps Scripts until 2030. I also oversee the maintenance of the [central course site](https://mae156b.ucsd.edu/), fixing issues dating back to 2014.
