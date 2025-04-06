@@ -1,12 +1,5 @@
-<h1 align="center">
-  Paz Mogrelia
-</h1>
-
-<div align="center">
-  
+# Paz Mogrelia
 [About Me](#about-me) · [My Projects](#my-projects) · [My Interests](#my-interests)  
-
-</div>
 
 ```
 #greet.py
@@ -25,19 +18,18 @@ greet()
 
 I am Paz Mogrelia, a Computer Science major at the University of California, San Diego.
 
-<div align="center">
 
 ![Headshot](./headshot.jpg) 
 
 
 
 (that's me.)<br>
-</div>
-<div align="center">
+
+
 
 [Email](mailto:pmogrelia@ucsd.edu) | [LinkedIn](http://linkedin.com/in/pazmogrelia) | [Resume](./resume.jpg) | [GitHub](https://github.com/pmogrelia)
 
-</div>
+
 
 
 
