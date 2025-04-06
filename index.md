@@ -1,3 +1,5 @@
+<p align="center">centered content</p>
+
 <p align="center">
 
 # Paz Mogrelia  
