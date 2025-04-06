@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+---
+
+
 <div align="center">
 
 # Paz Mogrelia  
