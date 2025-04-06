@@ -23,9 +23,9 @@ greet()
 I am Paz Mogrelia, a Computer Science major at the University of California, San Diego.
 <div align="center">
 
-![Headshot](headshot.jpg)  
+![Headshot](./headshot.jpg)  
 (that's me.)<br>
-[Email](mailto:pmogrelia@ucsd.edu) | [LinkedIn](http://linkedin.com/in/pazmogrelia) | [Resume](resume.jpg)  | [GitHub](https://github.com/pmogrelia)
+[Email](mailto:pmogrelia@ucsd.edu) | [LinkedIn](http://linkedin.com/in/pazmogrelia) | [Resume](./resume.jpg)  | [GitHub](https://github.com/pmogrelia)
 
 </div>
 
@@ -64,8 +64,8 @@ When I'm not coding, I enjoy playing chess, working on motorcycle projects (stil
 Some of the tech fields that intrest me the most are **cybersecurity** and **AI/ML projects**. Exploring these fields keeps me on my toes, and I’m always looking for interesting projects to dive into.  
 
 When I'm not coding, I’m usually up to something else that keeps me busy. I love playing chess – it’s a great way to test my brainpower (I'm only 1200 rated). I’m also into motorcycles, I modified and customized one during High School – even though I still don’t have my license yet. You can check out a before and after picture of my first project bike below:  
-![Before Modifications](motorbike.jpg)
-![After Modifications](motorbike1.jpg)    
+![Before Modifications](./motorbike.jpg)
+![After Modifications](./motorbike1.jpg)    
 > More photos are on our [Instagram](https://www.instagram.com/cafecustoms23/)
 > 
 I’m also trying to build up a vinyl collection, but i'll be honest – it’s still pretty small. 
