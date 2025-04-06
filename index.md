@@ -71,7 +71,7 @@ When I'm not coding, I’m usually up to something else that keeps me busy. I lo
 ![Before Modifications](./motorbike.jpg)
 ![After Modifications](./motorbike1.jpg)    
 > More photos are on our [Instagram](https://www.instagram.com/cafecustoms23/)
-> 
+
 I’m also trying to build up a vinyl collection, but i'll be honest – it’s still pretty small. 
 >You can see what I’ve got so far on my [Discogs Profile](https://www.discogs.com/user/pmogrelia/collection).  
 
