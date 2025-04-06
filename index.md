@@ -1,9 +1,3 @@
----
-layout: default
-title: ""
----
-
-
 <p align="center">
 
 # Paz Mogrelia  
